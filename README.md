@@ -4,7 +4,7 @@ Welcome to **Minar Multi Cuisine**, a clean and beautifully designed restaurant 
 
 ## 🌐 Live Demo
 
-👉 [Click to View Live Site](https://yourusername.github.io/Minar-Multi-Cuisine/)  
+👉 [Click to View Live Site](https://hajeeaboothahir.github.io/Reester/)  
 
 ## 📌 Features
 
